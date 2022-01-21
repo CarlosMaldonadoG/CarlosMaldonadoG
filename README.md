@@ -1,7 +1,10 @@
-### Hi there 👋 my name is Carlos Maldonado García
+### Bienvenido 👋 mi nombre es Carlos Maldonado García
+
+### :sunglasses: Acerca de mi:
 
 <!--
 **CarlosMaldonadoG/CarlosMaldonadoG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
