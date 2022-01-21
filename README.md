@@ -9,7 +9,7 @@ Soy estudiante de la Licenciatura en Computación en la Universidad Autónoma Be
 ## Contactame: :point_down:
 <html>
    <body>
-<a href="https://twitter.com/madebygaurav">
+<a href="https://twitter.com/carlosmg1111">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
          </a>
    </body>
